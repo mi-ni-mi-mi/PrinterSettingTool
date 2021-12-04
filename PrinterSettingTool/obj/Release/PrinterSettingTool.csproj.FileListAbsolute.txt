@@ -1,0 +1,9 @@
+E:\Programming\WindowsFormsApp\PrinterSettingTool\PrinterSettingTool\obj\Release\PrinterSettingTool.csproj.AssemblyReference.cache
+E:\Programming\WindowsFormsApp\PrinterSettingTool\PrinterSettingTool\obj\Release\PrinterSettingTool.csproj.GenerateResource.cache
+E:\Programming\WindowsFormsApp\PrinterSettingTool\PrinterSettingTool\obj\Release\PrinterSettingTool.csproj.CoreCompileInputs.cache
+E:\Programming\WindowsFormsApp\PrinterSettingTool\PrinterSettingTool\bin\Release\PrinterSettingTool.exe
+E:\Programming\WindowsFormsApp\PrinterSettingTool\PrinterSettingTool\bin\Release\PrinterSettingTool.pdb
+E:\Programming\WindowsFormsApp\PrinterSettingTool\PrinterSettingTool\obj\Release\PrinterSettingTool.Properties.Resources.resources
+E:\Programming\WindowsFormsApp\PrinterSettingTool\PrinterSettingTool\obj\Release\PrinterSettingTool.exe
+E:\Programming\WindowsFormsApp\PrinterSettingTool\PrinterSettingTool\obj\Release\PrinterSettingTool.pdb
+E:\Programming\WindowsFormsApp\PrinterSettingTool\PrinterSettingTool\obj\Release\PrinterSettingTool.Form1.resources
