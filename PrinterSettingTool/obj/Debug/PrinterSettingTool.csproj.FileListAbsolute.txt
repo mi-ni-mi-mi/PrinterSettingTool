@@ -1,0 +1,9 @@
+E:\Programming\WindowsFormsApp\App\App\bin\Debug\App.exe.config
+E:\Programming\WindowsFormsApp\App\App\bin\Debug\App.exe
+E:\Programming\WindowsFormsApp\App\App\bin\Debug\App.pdb
+E:\Programming\WindowsFormsApp\App\App\obj\Debug\App.Form1.resources
+E:\Programming\WindowsFormsApp\App\App\obj\Debug\App.Properties.Resources.resources
+E:\Programming\WindowsFormsApp\App\App\obj\Debug\PrinterSettingTool.csproj.GenerateResource.cache
+E:\Programming\WindowsFormsApp\App\App\obj\Debug\PrinterSettingTool.csproj.CoreCompileInputs.cache
+E:\Programming\WindowsFormsApp\App\App\obj\Debug\App.exe
+E:\Programming\WindowsFormsApp\App\App\obj\Debug\App.pdb
